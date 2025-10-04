@@ -5,8 +5,31 @@ permalink: /teaching/
 author_profile: true
 ---
 
-{% include base_path %}
+<!-- {% include base_path %}
 
 {% for post in site.teaching reversed %}
   {% include archive-single.html %}
+{% endfor %} -->
+
+
+
+<h1>Teaching</h1>
+
+{% comment %}
+Choose and order the sections you want to show.
+Make sure each item in _teaching/ has a matching `type:` in its front matter.
+{% endcomment %}
+{% assign sections = "Instructor,Guest Lecturer,Tutorial,Teaching Assistant,Research Supervision" | split: "," %}
+
+{% for section in sections %}
+  {% assign items = site.teaching | where: "type", section | sort: "date" | reverse %}
+  {% if items.size > 0 %}
+  <h2 id="{{ section | downcase | replace: ' ', '-' }}">{{ section }}</h2>
+  <div class="archive__items">
+    {% for post in items %}
+      {% include archive-single.html %}
+    {% endfor %}
+  </div>
+  <hr />
+  {% endif %}
 {% endfor %}
