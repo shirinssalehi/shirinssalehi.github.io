@@ -23,7 +23,7 @@ repository               : "shirinssalehi/shirinssalehi.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpeg"
   name             : "Shirin Seyedsalehi"
   pronouns         : # example: "she/her"  
   bio              : "I am an Assistant Professor at Toronto Metropolitan University"
