@@ -1,13 +1,10 @@
 ---
-title: "Interactive Grounded Language Understanding in a Collaborative Environment (IGLU)"
+title: "Gender-Disentangled Ranking Models"
 collection: research
-type: "Project"
-date: 2024-01-01
-venue: "Microsoft Research"
-summary: "Developed a large-scale dataset for gender-fair query reformulation and experimented with LLM-RAG hybrid rankers."
+permalink: /research/2022-08-14-microsoft/
+date: 2022-08-14
+excerpt: "A research project focusing on fairness in neural rankers."
+header:
+  teaser: "../images/500x300.png"
 ---
-
- Contributed to the development of a state-of-the-art multi
-modal model capable of predicting next-step actions in interactive environments. The model leverages image and text
- data from previous states to generate precise text-based action predictions, enhancing decision-making capabilities
- in complex scenarios.
+Here is some short text about the project.

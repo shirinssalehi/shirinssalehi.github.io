@@ -3,6 +3,5 @@ layout: archive
 title: "Research Experience"
 permalink: /research/
 author_profile: true
+entries_layout: grid
 ---
-
-Below is a collection of selected research projects, collaborations, and contributions.
