@@ -3,6 +3,18 @@ layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
+---
+
+You can download my full CV here:
+
+👉 **[Download CV (PDF)](/files/cv_shirin_seyedsalehi_2025.pdf)**
+
+
+<!-- ---
+layout: archive
+title: "CV"
+permalink: /cv/
+author_profile: true
 redirect_from:
   - /resume
 ---
@@ -61,4 +73,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
