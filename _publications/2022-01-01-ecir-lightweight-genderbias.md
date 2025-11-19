@@ -1,7 +1,7 @@
 ---
 title: "A Light-weight Strategy for Restraining Gender Biases in Neural Rankers"
 collection: publications
-category: conference
+category: conferences
 permalink: /publication/2022-ecir-lightweight-genderbias
 excerpt: "A computationally efficient bias mitigation approach for neural ranking models."
 date: 2022-01-01

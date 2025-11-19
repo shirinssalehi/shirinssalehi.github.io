@@ -1,7 +1,7 @@
 ---
 title: "A Regularization Framework for Bias Mitigation in Dense Neural Rankers"
 collection: publications
-category: journal
+category: manuscripts
 permalink: /publication/2025-regularization-framework
 excerpt: "A framework that mitigates representational bias in dense neural ranking models while preserving utility."
 date: 2025-01-01

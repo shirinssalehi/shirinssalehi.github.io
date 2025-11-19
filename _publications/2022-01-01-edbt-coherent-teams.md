@@ -1,7 +1,7 @@
 ---
 title: "A Neural Approach to Forming Coherent Teams in Collaboration Networks"
 collection: publications
-category: conference
+category: conferences
 permalink: /publication/2022-edbt-coherent-teams
 excerpt: "A neural model that identifies cohesive collaboration teams in large-scale networks."
 date: 2022-01-01

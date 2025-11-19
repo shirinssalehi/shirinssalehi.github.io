@@ -1,7 +1,7 @@
 ---
 title: "Don't Raise Your Voice, Improve Your Argument: Learning to Retrieve Convincing Arguments"
 collection: publications
-category: conference
+category: conferences
 permalink: /publication/2023-retrieving-convincing-arguments
 excerpt: "A learning-to-rank framework for persuasive argument retrieval from debate corpora."
 date: 2023-01-01

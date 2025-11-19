@@ -1,7 +1,7 @@
 ---
 title: "Gender Disentangled Representation Learning in Neural Rankers"
 collection: publications
-category: journal
+category: manuscripts
 permalink: /publication/2024-gender-disentangled-rankers
 excerpt: "A disentanglement-based neural ranking model that separates semantic relevance from gender information."
 date: 2024-01-01

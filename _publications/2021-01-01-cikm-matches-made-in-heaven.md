@@ -1,7 +1,7 @@
 ---
 title: "Matches Made in Heaven: Toolkit and Large-Scale Datasets for Supervised Query Reformulation"
 collection: publications
-category: conference
+category: conferences
 permalink: /publication/2021-cikm-matches-made-in-heaven
 excerpt: "A large-scale dataset and toolkit for supervised query reformulation in search systems."
 date: 2021-01-01

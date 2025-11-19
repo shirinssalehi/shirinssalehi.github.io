@@ -1,7 +1,7 @@
 ---
 title: "Neural Disentanglement of Query Difficulty and Semantics"
 collection: publications
-category: conference
+category: conferences
 permalink: /publication/2023-neural-disentanglement-qd
 excerpt: "A model that isolates query difficulty from semantic intent for better ranking behavior analysis."
 date: 2023-01-01

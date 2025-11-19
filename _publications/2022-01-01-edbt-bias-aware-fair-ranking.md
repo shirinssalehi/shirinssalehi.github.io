@@ -1,7 +1,7 @@
 ---
 title: "Bias-aware Fair Neural Ranking for Addressing Stereotypical Gender Biases"
 collection: publications
-category: conference
+category: conferences
 permalink: /publication/2022-edbt-bias-aware-fair-ranking
 excerpt: "A fairness-aware neural ranking framework to mitigate gender stereotypes in retrieval systems."
 date: 2022-01-01

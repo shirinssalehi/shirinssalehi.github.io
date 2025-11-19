@@ -1,7 +1,7 @@
 ---
 title: "Query Performance Prediction Using Neural Query Space Proximity"
 collection: publications
-category: journal
+category: manuscripts
 permalink: /publication/2025-query-performance-proximity
 excerpt: "A neural proximity-based model for predicting query performance using latent query representations."
 date: 2025-01-01

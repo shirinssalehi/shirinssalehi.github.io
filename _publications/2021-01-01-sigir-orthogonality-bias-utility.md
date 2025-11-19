@@ -1,7 +1,7 @@
 ---
 title: "On the Orthogonality of Bias and Utility in Ad hoc Retrieval"
 collection: publications
-category: conference
+category: conferences
 permalink: /publication/2021-sigir-orthogonality-bias-utility
 excerpt: "An empirical study on the relationship between bias and utility dimensions in ad hoc retrieval."
 date: 2021-01-01

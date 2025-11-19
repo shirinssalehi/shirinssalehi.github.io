@@ -1,7 +1,7 @@
 ---
 title: "Generative Adversarial Networks for Propagation Channel Modeling"
 collection: publications
-category: journal
+category: manuscripts
 permalink: /publication/2022-gan-propagation-modeling
 excerpt: "GAN-based modeling of wireless propagation channels for improved simulation fidelity."
 date: 2022-01-01

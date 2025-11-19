@@ -1,7 +1,7 @@
 ---
 title: "Understanding and Mitigating Gender Bias in Information Retrieval Systems"
 collection: publications
-category: journal
+category: manuscripts
 permalink: /publication/2024-understanding-gender-bias-ir
 excerpt: "A systematic exploration of gender bias sources in IR pipelines and mitigation strategies across benchmarks."
 date: 2024-01-01

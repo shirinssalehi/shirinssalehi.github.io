@@ -1,7 +1,7 @@
 ---
 title: "Addressing Gender-related Performance Disparities in Neural Rankers"
 collection: publications
-category: conference
+category: conferences
 permalink: /publication/2022-gender-performance-disparities
 excerpt: "An empirical study addressing gender-based disparities in neural retrieval models."
 date: 2022-01-01

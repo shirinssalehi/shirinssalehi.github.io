@@ -1,7 +1,7 @@
 ---
 title: "Reinforcement Learning for Effective Few-Shot Ranking"
 collection: publications
-category: conference
+category: conferences
 permalink: /publication/2025-rl-few-shot-ranking
 excerpt: "Reinforcement learning techniques that enhance few-shot ranking tasks with minimal supervision."
 date: 2025-01-01

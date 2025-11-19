@@ -1,7 +1,7 @@
 ---
 title: "Self-Paced Fair Ranking with Loss as a Proxy for Bias"
 collection: publications
-category: under-review
+category: conferences
 permalink: /publication/2025-self-paced-fair-ranking
 excerpt: "A self-paced learning framework that adaptively minimizes bias in neural ranking through loss-based sampling."
 date: 2025-01-01

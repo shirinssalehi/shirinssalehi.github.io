@@ -1,7 +1,7 @@
 ---
 title: "Bias-aware Curriculum Sampling for Fair Ranking"
 collection: publications
-category: conference
+category: conferences
 permalink: /publication/2025-bias-aware-curriculum-sampling
 excerpt: "A curriculum strategy that progressively reduces ranking bias in neural retrieval systems."
 date: 2025-01-01

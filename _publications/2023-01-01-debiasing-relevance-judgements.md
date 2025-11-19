@@ -1,7 +1,7 @@
 ---
 title: "De-Biasing Relevance Judgements for Fair Ranking"
 collection: publications
-category: conference
+category: conferences
 permalink: /publication/2023-debiasing-relevance-judgements
 excerpt: "A data-centric framework to correct annotator bias in relevance judgements for fair IR evaluation."
 date: 2023-01-01
