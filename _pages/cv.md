@@ -7,8 +7,13 @@ author_profile: true
 
 You can download my full CV here:
 
-👉 **[Download CV (PDF)](/files/cv_shirin_seyedsalehi_2025.pdf)**
+👉 **[Download CV (PDF)](/files/cv.pdf)**
 
+<iframe 
+    src="/files/cv.pdf"
+    width="100%" 
+    height="900px">
+</iframe>
 
 <!-- ---
 layout: archive
