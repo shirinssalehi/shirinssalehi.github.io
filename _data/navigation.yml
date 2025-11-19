@@ -20,8 +20,8 @@ main:
   - title: "Service"
     url: /portfolio/
         
-  - title: "Research Experience"
-    url: /year-archive/
+  - title: "Research"
+    url: /research/
     
   - title: "CV"
     url: /cv/
