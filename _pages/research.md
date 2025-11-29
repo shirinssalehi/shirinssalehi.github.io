@@ -8,7 +8,7 @@ author_profile: true
 <div class="research-grid">
 
   <div class="research-card">
-    <img src="/images/tmu.png" alt="TMU logo" class="research-logo">
+    <img src="/images/tmulogo.jpeg" alt="TMU logo" class="research-logo">
     <h3>Assistant Professor, Toronto Metropolitan University</h3>
     <p class="research-dates">2025 – Present</p>
     <p>
@@ -18,7 +18,7 @@ author_profile: true
   </div>
 
   <div class="research-card">
-    <img src="/images/uoft.png" alt="University of Toronto logo" class="research-logo">
+    <img src="/images/uoftlogo.png" alt="University of Toronto logo" class="research-logo">
     <h3>Research Assistant, LS3 Lab, University of Toronto</h3>
     <p class="research-dates">2021 – 2025</p>
     <p>
