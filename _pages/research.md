@@ -8,7 +8,7 @@ author_profile: true
 <div class="research-grid">
 
   <div class="research-card">
-    <img src="/images/tmulogo.jpeg" alt="TMU logo" class="research-logo">
+    <img src="/images/tmulogo.jpg" alt="TMU logo" class="research-logo">
     <h3>Assistant Professor, Toronto Metropolitan University</h3>
     <p class="research-dates">2025 – Present</p>
     <p>
@@ -38,7 +38,7 @@ author_profile: true
   </div>
 
 <div class="research-card">
-    <img src="/images/nserclogo.png" alt="nserc logo" class="research-logo">
+    <img src="/images/railogo.jpg" alt="nserc logo" class="research-logo">
     <h3>Researcher, NSERC Responsible AI</h3>
     <p class="research-dates">2020 – 2021</p>
     <p>
@@ -48,7 +48,7 @@ author_profile: true
   </div>
 
   <div class="research-card">
-    <img src="/images/nsercai.png" alt="NSERC Responsible AI logo" class="research-logo">
+    <img src="/images/partlogo.png" alt="Partdp.ai logo" class="research-logo">
     <h3>NLP Research Scientist, Partdp.ai</h3>
     <p class="research-dates">2020 – 2021</p>
     <p>
