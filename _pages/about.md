@@ -9,8 +9,7 @@ redirect_from:
 
 I’m Shirin Seyedsalehi, an Assistant Professor at the Ted Rogers School of Management, Toronto Metropolitan University (TMU). I received my Ph.D. in Computer Engineering from Toronto Metropolitan University (TMU), where my research focused on fairness and bias mitigation in information retrieval systems.
 
-My work lies at the intersection of machine learning, natural language processing, and information retrieval. I’m particularly interested in understanding and reducing stereotypical gender biases in AI-driven ranking and retrieval systems. 
-
+My work lies at the intersection of machine learning, natural language processing, and information retrieval. 
 I’ve presented my research at international conferences such as SIGIR, ECIR, and ACML, and my publications have appeared in venues including the Machine Learning Journal and Information Processing & Management. Beyond research, I’m passionate about responsible AI, explainability, and the integration of insights from psychology and cognitive science into the design of fair and interpretable machine learning models.
 
 At TMU, I teach courses in Information Technology Management, including Business Intelligence (ITM618), and Fundamentals of Programming (ITM200),and enjoy mentoring students who share my curiosity for building intelligent and ethical systems.
