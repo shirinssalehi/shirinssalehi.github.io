@@ -8,7 +8,7 @@ author_profile: true
 <div class="research-grid">
 
   <div class="research-card">
-    <img src="/images/logos/tmu.png" alt="TMU logo" class="research-logo">
+    <img src="/images/tmu.png" alt="TMU logo" class="research-logo">
     <h3>Assistant Professor, Toronto Metropolitan University</h3>
     <p class="research-dates">2025 – Present</p>
     <p>
@@ -18,7 +18,7 @@ author_profile: true
   </div>
 
   <div class="research-card">
-    <img src="/images/logos/uoft.png" alt="University of Toronto logo" class="research-logo">
+    <img src="/images/uoft.png" alt="University of Toronto logo" class="research-logo">
     <h3>Research Assistant, LS3 Lab, University of Toronto</h3>
     <p class="research-dates">2021 – 2025</p>
     <p>
@@ -28,7 +28,7 @@ author_profile: true
   </div>
 
   <div class="research-card">
-    <img src="/images/logos/microsoft.png" alt="Microsoft Research logo" class="research-logo">
+    <img src="/images/msr_logo.jpeg" alt="Microsoft Research logo" class="research-logo">
     <h3>Research Scientist Intern, Microsoft Research</h3>
     <p class="research-dates">2022</p>
     <p>
@@ -38,7 +38,7 @@ author_profile: true
   </div>
 
   <div class="research-card">
-    <img src="/images/logos/partdpai.png" alt="Partdp.ai logo" class="research-logo">
+    <img src="/images/partlogo.png" alt="Partdp.ai logo" class="research-logo">
     <h3>NLP Research Scientist, Partdp.ai</h3>
     <p class="research-dates">2020 – 2021</p>
     <p>
