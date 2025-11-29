@@ -53,7 +53,7 @@ author_profile: true
     </div>
     <h3>Researcher</h3>
     <p class="research-org">NSERC Responsible AI</p>
-    <p class="research-dates">2020 – 2021</p>
+    <p class="research-dates">2021 – 2025</p>
     <p>
       Organized and participated in seminars, talks, and panels on fairness, accountability,
       transparency, and ethics in AI and ML with a transdisciplinary perspective.
