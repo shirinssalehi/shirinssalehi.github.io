@@ -18,7 +18,7 @@ main:
     url: /teaching/    
     
   - title: "News"
-    url: /portfolio/
+    url: /news/
         
   - title: "Research Experience"
     url: /research/
