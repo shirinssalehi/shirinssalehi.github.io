@@ -1,5 +1,11 @@
 
 
+---
+title: "Research Experience"
+permalink: /research/
+layout: single
+---
+
 ## **Research Experience**
 
 ### **Assistant Professor, Toronto Metropolitan University (2025–Present)**
