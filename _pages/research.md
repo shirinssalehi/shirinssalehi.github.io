@@ -5,7 +5,6 @@ layout: single
 author_profile: true
 ---
 
-## Research Experience
 
 <div class="research-grid">
 
