@@ -224,7 +224,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  news:
     output: true
     permalink: /:collection/:path/
   talks:
@@ -232,7 +232,8 @@ collections:
     permalink: /:collection/:path/
   research:
     output: true
-    permalink: /research/:path/
+    permalink: /:collection/:path/
+
 
 
 
@@ -274,10 +275,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _news
   - scope:
       path: ""
-      type: portfolio
+      type: news
     values:
       layout: single
       author_profile: true
