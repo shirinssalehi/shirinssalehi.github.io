@@ -37,8 +37,18 @@ author_profile: true
     </p>
   </div>
 
+<div class="research-card">
+    <img src="/images/nserclogo.png" alt="nserc logo" class="research-logo">
+    <h3>Researcher, NSERC Responsible AI</h3>
+    <p class="research-dates">2020 – 2021</p>
+    <p>
+      Organized and participated in seminars, talks, and panels on Fairness, Accountability, Transparency, and Ethics in
+      AI and ML with a transdisciplinary perspective.
+    </p>
+  </div>
+
   <div class="research-card">
-    <img src="/images/partlogo.png" alt="Partdp.ai logo" class="research-logo">
+    <img src="/images/nsercai.png" alt="NSERC Responsible AI logo" class="research-logo">
     <h3>NLP Research Scientist, Partdp.ai</h3>
     <p class="research-dates">2020 – 2021</p>
     <p>
