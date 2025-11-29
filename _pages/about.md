@@ -7,14 +7,18 @@ redirect_from:
   - /about.html
 ---
 
-I’m Shirin Seyedsalehi, an Assistant Professor at the Ted Rogers School of Management, Toronto Metropolitan University (TMU). I received my Ph.D. in Computer Engineering from Toronto Metropolitan University (TMU), where my research focused on fairness and bias mitigation in information retrieval systems.
 
-My work lies at the intersection of machine learning, natural language processing, and information retrieval. 
-I’ve presented my research at international conferences such as SIGIR, ECIR, and ACML, and my publications have appeared in venues including the Machine Learning Journal and Information Processing & Management. Beyond research, I’m passionate about responsible AI, explainability, and the integration of insights from psychology and cognitive science into the design of fair and interpretable machine learning models.
+<div style="text-align: justify;">
 
-At TMU, I teach courses in Information Technology Management, including Business Intelligence (ITM618), and Fundamentals of Programming (ITM200),and enjoy mentoring students who share my curiosity for building intelligent and ethical systems.
+I’m Shirin Seyedsalehi, an Assistant Professor at the Ted Rogers School of Management, Toronto Metropolitan University (TMU). I received my Ph.D. in Computer Engineering from Toronto Metropolitan University, where my research focused on fairness and bias mitigation in information retrieval systems.
+
+My work lies at the intersection of machine learning, natural language processing, and information retrieval. I’ve presented my research at international conferences such as SIGIR, ECIR, and ACML, and my publications have appeared in venues including the *Machine Learning Journal* and *Information Processing & Management*. Beyond research, I’m passionate about responsible AI, explainability, and the integration of insights from psychology and cognitive science into the design of fair and interpretable machine learning models.
+
+At TMU, I teach courses in Information Technology Management, including Business Intelligence (ITM618) and Fundamentals of Programming (ITM200), and enjoy mentoring students who share my curiosity for building intelligent and ethical systems.
 
 Before moving to Canada, I completed both my Master’s and Bachelor’s degrees in Electrical Engineering at Amirkabir University of Technology (Tehran Polytechnic), one of the leading engineering universities in Iran. During my studies, I developed a strong foundation in machine learning, data mining, and natural language processing, which shaped my long-term interest in building AI systems that are both effective and fair.
+
+</div>
 
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
