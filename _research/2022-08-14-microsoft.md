@@ -1,10 +1,9 @@
 ---
-title: "Gender-Disentangled Ranking Models"
+title: "Gender Disentangled Representation Learning in Neural Rankers"
 collection: research
-permalink: /research/2022-08-14-microsoft/
-date: 2022-08-14
-excerpt: "A research project focusing on fairness in neural rankers."
-header:
-  teaser: "../images/500x300.png"
+date: 2024-10-01
+excerpt: "A disentanglement-based approach to reduce gender leakage in neural ranking models while preserving effectiveness."
+image: /images/research/disentangled_ranking.jpg
 ---
-Here is some short text about the project.
+
+This project proposes a novel disentangled representation learning framework to reduce gender leakage in neural IR models...
